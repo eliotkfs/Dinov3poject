@@ -1,5 +1,7 @@
 OBS DU MÅ GÅ I BRANCH OF MAIN for å finne main.ipynb, (dinov3-main>main.ipynb) merkelig hvordan jeg lagde branchen og pushet det til main, og likevel det ble ikke med
 
+UPDATE tror jeg fikset det ved å merge branches
+
 bilder ligger under data folder
 
 
