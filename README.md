@@ -1,7 +1,6 @@
-README.md skal inneholde:
-Kort sammendrag av hva dere har gjort.
-Hvilket verktøy dere brukte for å lage maskene.
-En illustrasjon/eksempel på resultatet.
+OBS DU MÅ GÅ I BRANCH OF MAIN for å finne main.ipynb, (dinov3-main>main.ipynb) merkelig hvordan jeg lagde branchen og pushet det til main, og likevel det ble ikke med
+
+bilder ligger under data folder
 
 
 1. I main.ipynb ligger besvarelsen i sin helhet.
